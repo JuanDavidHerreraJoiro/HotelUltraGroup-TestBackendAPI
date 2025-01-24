@@ -13,7 +13,7 @@ Instrucciones para instalar el proyecto.
 
 ```bash
 # Clonar el repositorio
-git clone 
+git clone https://github.com/JuanDavidHerreraJoiro/HotelUltraGroup-TestBackendAPI.git
 
 ```
 
